@@ -1,0 +1,40 @@
+.advertismentFourMain{
+    height: 420px;
+    width: 360px;
+    background-color: white;
+    margin: 10px;
+}
+.advertismentFour__head{
+    font-size: 21px;
+    line-height: 27px;
+    font-weight: bold;
+    padding: 15px;
+}
+.advertismentFour__body{
+    padding-left: 15px;
+    display: flex;
+    flex-wrap: wrap;
+   
+   
+}
+/* .advertismentFour__body img{
+    background-color: #F2FAFB;
+} */
+/* .firstImage{
+    background-color: #F2FAFB;
+} */
+.names{
+    font-size: 12px;
+    font-weight: bold;
+}
+.ad__fourImages{
+    width: 140px;
+    height: 100px;
+    margin: 5px;
+}
+.advertismentFour__footer{
+    padding: 65px;
+    padding-left: 15px;
+    font-size: 12px;
+    color: #007185;
+}

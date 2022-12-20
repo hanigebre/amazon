@@ -1,0 +1,21 @@
+.mainPage {
+    width: 100vw;
+    /* height: 100vh; */
+    background: url("https://ik.imagekit.io/x67cvkx60/amazon-image/amazonebanner_twtZiOMft.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1666787823704");
+    background-size: 100vw;
+    background-repeat: no-repeat;
+    background-color:#EAEDED;
+    /* background-size: cover; */
+}
+
+.sign__product {
+    display: block;
+}
+
+.electronics__image {
+    width: 390px;
+}
+.home__links{
+    text-decoration: none;
+    color: black;
+}

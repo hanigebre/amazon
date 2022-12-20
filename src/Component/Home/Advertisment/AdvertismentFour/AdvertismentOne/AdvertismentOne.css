@@ -1,0 +1,39 @@
+.advertismentOneMain{
+    height: 420px;
+    width: 360px;
+    background-color: white;
+    margin: 10px;
+}
+.advertismentOne__head{
+    font-size: 21px;
+    line-height: 27px;
+    font-weight: bold;
+    padding: 15px 15px 0 15px;
+    /* padding-bottom: 5px; */
+}
+.advertismentOne__body{
+    padding-left: 20px;
+}
+.ad__images{
+    height: 300px;
+    margin: auto;
+}
+.advertismentOne__footer{
+    padding: 25px;
+    padding-left: 15px;
+    font-size: 12px;
+    text-decoration: none;
+
+    color: #007185;
+}
+.advertismentOne__footer:hover{
+    color: #C7511F;
+    text-decoration: underline;
+}
+.product__price {
+    /* margin-top: 1px; */
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: bold;
+    padding: 0 15px;
+  }

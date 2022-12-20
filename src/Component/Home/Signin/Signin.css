@@ -1,0 +1,32 @@
+.signinMain{
+    width: 360px;
+    height: 160px;
+    /* display: block; */
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+.signin__first{
+    text-align: center;
+    padding-top: 25px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.signin__second{
+    font-size: 13px;
+    text-align: center;
+    
+    width: 320px;
+    height: 31px;
+    background-color: #F7CA00;
+    /* margin-left: 25px;
+    margin-top: 10px;
+    margin-left: auto; */
+    margin: 10px auto;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+
+}
